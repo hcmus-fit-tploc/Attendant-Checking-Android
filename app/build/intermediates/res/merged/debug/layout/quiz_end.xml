@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@color/white">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Quiz over"
+            android:textSize="18sp"
+            android:layout_marginBottom="10dip"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/close_instruction_btn"
+            android:gravity="right"
+            android:textColor="@color/deep"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dip"
+            android:textSize="20sp"
+            android:text="CLOSE"/>
+</LinearLayout>

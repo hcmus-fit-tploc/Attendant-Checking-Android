@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:context="com.example.hoangdang.diemdanh.studentQuiz.StudentQuizActivity"
+    android:background="@color/white">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/quiz_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/primary_darker"
+            android:layout_gravity="center"
+            app:popupTheme="@style/AppTheme.PopupOverlay"/>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <TextView
+        android:gravity="center"
+        android:text="Waiting for the quiz start"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:layout_marginTop="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"/>
+
+    <com.trncic.library.DottedProgressBar
+        android:layout_below="@id/tv1"
+        android:id="@+id/progress_dot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="30dp"
+        app:activeDot="@drawable/active_dot"
+        app:dotSize="29dp"
+        app:inactiveDot="@drawable/inactive_dot"
+        app:jumpingSpeed="670"
+        app:spacing="15dp" />
+
+</LinearLayout>

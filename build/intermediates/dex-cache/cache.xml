@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="77e3f210322743390ab44e667cc8988ba5d9433b">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.5.0_fe594a54318bb007cdddc55ebaa9a2ba1098cc49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.1_cc65114245a7d262acd0de828494ab16d05b5224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.github.medyo\android-about-page\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38d26f7d4976314b584c4532b44eb9caba4b68cf">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.github.medyo-android-about-page-1.2.1_e5cae090015aae03fdbe0ee0bd3df288fd935e63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUNG HIEP\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_bfcf80cda078cbaa41dccca4a277386f716efdbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_e3d1b16b066bb214d5e2c40e1f87380a5a329a84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUNG HIEP\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\okio-1.11.0_0445fbb4054e8d8b4e673316e1b5a415d037d6a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_c5901249fce2e9a45c9787e34957673de11f0bee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.github.igortrncic.dotted-progress-bar\library\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e8ea16f46aa9f942b28999b5969353ae2c6283e6">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.github.igortrncic.dotted-progress-bar-library-1.0.0_bfed2a6237b3f7cf8923a679da84dbbc194fc3cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.6.0_ce65a4ed8fb479dfd678cbd6da3e17bb85d73114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_cc478a6dde54c88cb6271884661d65accc8cc33b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUNG HIEP\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.6.0\48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8\butterknife-annotations-8.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.6.0_8e1a8d186d3dc584a2419de76c97bde9b06de04b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUNG HIEP\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.5.0\4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83\okhttp-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\okhttp-3.5.0_c7ceba54e99ebbfab58c7cfe5d5923e676bf4ad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUNG HIEP\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_cb15f23ae864c75d031ff3d9d79f2198697faae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUNG HIEP\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\0.8.3\b30500232ff0668a47c9f91f02e6935457a52fb5\socket.io-client-0.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b30500232ff0668a47c9f91f02e6935457a52fb5">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\socket.io-client-0.8.3_01ae5d3633a38ab17e8944d8f67f28a10f247816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_cc9437726d36c700707ed8e5e816e48c286ab9e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.1_58c62c07a6df71b4174cee9ee009c6ea0b4e2154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\libs\KairosSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5133cf8c531d2432f50c5e82cd07d834d3d19850">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\KairosSDK_3b336907779ea7c2fe359440954e55c07af11403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_05c98f21aafeba73df3b7cd365b972a79f00ab42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_b3325265067768b514c9fc3bb6c66f47329db757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_49edd1a91c1d8a10f27400dd364d338b99b0e316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_3d5600445bed7e3ee3a16fb6651605241d80e685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_2296f23dda02cf3da7e93ceb5e20763b11767c7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_e5c6c67661ae3d4c45fd6c4a6e18923150a5cd5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_1e5dac7f8ad2c28337c4f4d592b146d58d4741b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUNG HIEP\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\core-3.3.0_4f35626e403219fde7580023103786a4aa714e1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_e7b9dfb71013ba606825b936d883fbd10608d2ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUNG HIEP\.gradle\caches\modules-2\files-2.1\io.socket\engine.io-client\0.8.3\854b49396e1e9f9bb0ab025062ddb49c4ed65ca1\engine.io-client-0.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="854b49396e1e9f9bb0ab025062ddb49c4ed65ca1">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\engine.io-client-0.8.3_018c4e898ff8af509d760ae120a68f24f7206de9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_732565575dc3fc67ce9f98dc37b157d9c07c106f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.1_fd3ba7e89b5c2d9f64e0fc39cb0eb03f5abbeefb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_558b336903697daee6937dda3c724aaf9a005ecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3e607ca6e04e85741fa979402b37eb552b811641">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-11.0.1_a568ed28de9efff924d9fd4edf765a98fe46d70b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\HOC TAP\Capstone\QuanLyDiemDanhAndroid-master\Diemdanh\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_f91a8f580e4beff0207e6313d3a188c77e252301.jar" />
+    </item>
+
+</items>

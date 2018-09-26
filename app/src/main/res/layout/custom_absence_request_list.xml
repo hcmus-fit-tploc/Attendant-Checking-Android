@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="@dimen/item_padding"
+        android:paddingBottom="@dimen/item_padding"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:id="@+id/absence_request_date_textView"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textStyle="bold"
+            android:text="CTT101 - 13 CTT"
+            android:layout_marginRight="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:id="@+id/absence_request_content_textView"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="Android Programming"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:id="@+id/absence_request_time_textView"
+                android:text="12/11/2017 11:00"
+                android:textStyle="italic"
+                android:layout_marginRight="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/absence_request_accepted"
+                android:text="Accepted"
+                android:textSize="15sp"
+                android:background="@drawable/open_tag"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/absence_request_deny"
+                android:text="Rejected"
+                android:textSize="15sp"
+                android:background="@drawable/deny_tag"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/absence_request_new"
+                android:text="Pending"
+                android:textSize="15sp"
+                android:background="@drawable/seen_tag"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

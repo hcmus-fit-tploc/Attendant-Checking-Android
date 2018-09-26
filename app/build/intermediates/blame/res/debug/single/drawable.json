@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seen_tag.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\seen_tag.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radius.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\radius.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timetable_border.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\timetable_border.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_twitter.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\drawable\\about_icon_twitter.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_facebook.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\drawable\\about_icon_facebook.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_next_button.png",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\icon_next_button.png"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_email.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\drawable\\about_icon_email.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_github.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\drawable\\about_icon_github.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_youtube.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\drawable\\about_icon_youtube.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deny_tag.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\deny_tag.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_google_play.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\drawable\\about_icon_google_play.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar.png",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\avatar.png"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_link.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\drawable\\about_icon_link.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_button.png",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\icon_back_button.png"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo1.png",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\usericon.png",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\usericon.png"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unnamed.png",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\unnamed.png"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_instagram.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\drawable\\about_icon_instagram.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\open_tag.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\open_tag.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\drawable\\img.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    }
+]

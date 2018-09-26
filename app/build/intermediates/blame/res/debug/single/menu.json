@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\menu\\absence_request_drawer.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\menu\\absence_request_drawer.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\menu\\attendance_drawer.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\menu\\attendance_drawer.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_class_management_drawer.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\menu\\activity_class_management_drawer.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_checklist_drawer.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\menu\\activity_checklist_drawer.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nav_drawer.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\menu\\nav_drawer.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\menu\\feedback_drawer.xml",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\menu\\feedback_drawer.xml"
+    }
+]

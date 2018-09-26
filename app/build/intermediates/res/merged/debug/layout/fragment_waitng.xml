@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.hoangdang.diemdanh.studentQuiz.TwoStepFragment">
+
+    <TextView
+        android:gravity="center"
+        android:text="Waiting for the quiz start"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:layout_marginTop="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"/>
+
+    <com.trncic.library.DottedProgressBar
+        android:layout_below="@id/tv1"
+        android:id="@+id/progress_dot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="30dp"
+        app:activeDot="@drawable/active_dot"
+        app:dotSize="29dp"
+        app:inactiveDot="@drawable/inactive_dot"
+        app:jumpingSpeed="670"
+        app:spacing="15dp" />
+
+</RelativeLayout>

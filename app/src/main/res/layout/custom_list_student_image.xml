@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:background="@color/white">
+
+	<FrameLayout
+	android:id="@+id/image_ll"
+	android:layout_width="match_parent"
+	android:layout_height="120dip">
+
+		<ImageView
+			android:id="@+id/image"
+			android:layout_width="match_parent"
+			android:layout_height="120dip"
+			android:adjustViewBounds="true"
+			android:scaleType="centerCrop" />
+
+		<ProgressBar
+			android:id="@+id/progress"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:indeterminate="false"
+			android:max="100"
+			android:layout_gravity="bottom"
+			style="@style/ProgressBarStyle" />
+			
+	</FrameLayout>
+	<TextView
+		android:layout_gravity="bottom"
+		android:layout_below="@id/image_ll"
+		android:id="@+id/stud_code_image_textView"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:paddingLeft="8dp"
+		android:text="1353049"
+		android:textSize="15sp"
+		android:textColor="@color/black"/>
+	<TextView
+		android:layout_gravity="bottom"
+		android:layout_below="@id/stud_code_image_textView"
+		android:id="@+id/stud_name_image_textView"
+		android:layout_width="wrap_content"
+		android:layout_height="50dip"
+		android:paddingLeft="8dp"
+		android:text="111"
+		android:textSize="15sp"
+		android:textColor="@color/black"/>
+    <ImageView
+		android:background="@color/white"
+		android:src="@drawable/ic_check_box_blue_24dp"
+		android:id="@+id/type"
+		android:layout_above="@+id/stud_code_image_textView"
+		android:visibility="invisible"
+		android:layout_toRightOf="@+id/stud_code_image_textView"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"/>
+</RelativeLayout>

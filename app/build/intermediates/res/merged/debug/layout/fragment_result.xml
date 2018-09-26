@@ -1,0 +1,59 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hoangdang.diemdanh.studentQuiz.TwoStepFragment"
+    android:paddingLeft="20dip">
+
+    <RelativeLayout
+        android:layout_marginTop="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="You've finished the quiz"
+            android:gravity="center_horizontal"
+            android:id="@+id/title_frag"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_below="@id/title_frag"
+            android:id="@+id/correct_question"
+            android:text="Correct: 1 out of 2"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_below="@id/correct_question"
+            android:id="@+id/message"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:text="Your Attendance is not checked. You didn't answer any question."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:layout_centerHorizontal="true"
+            android:id="@+id/view_detail"
+            android:text="View Detail"
+            android:layout_below="@id/message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:layout_centerHorizontal="true"
+            android:id="@+id/close"
+            android:text="Finish"
+            android:layout_below="@id/view_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.Button.Green"/>
+
+    </RelativeLayout>
+
+</FrameLayout>

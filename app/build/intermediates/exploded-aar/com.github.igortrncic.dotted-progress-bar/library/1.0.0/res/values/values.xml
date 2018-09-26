@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DottedProgressBar"><attr format="color" name="emptyDotsColor"/><attr format="color" name="activeDotColor"/><attr format="reference|color" name="inactiveDot"/><attr format="reference|color" name="activeDot"/><attr format="dimension" name="dotSize"/><attr format="dimension" name="spacing"/><attr format="integer" name="jumpingSpeed"/><attr format="integer" name="activeDotIndex"/></declare-styleable>
+    <!-- From: file:/Users/igortrncic/DottedProgressBar/library/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">library</string>
+</resources>

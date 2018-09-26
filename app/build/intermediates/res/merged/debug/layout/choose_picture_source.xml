@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Choose from"
+        android:textSize="20sp"
+        android:textColor="@color/primary"
+        android:layout_marginBottom="10dp"/>
+
+    <LinearLayout
+        android:padding="10dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal">
+            <TextView
+                android:id="@+id/open_gallery"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Gallery"
+                android:drawableLeft="@drawable/ic_photo_black_24dp"
+                android:textSize="20dp"
+                android:drawablePadding="5dp"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/open_camera"
+                android:drawableLeft="@drawable/ic_photo_camera_black_24dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Camera"
+                android:textSize="20dp"
+                android:drawablePadding="5dp"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This image is used for teacher to regconize you when check attendance."
+        android:textSize="15sp"
+        android:textColor="@color/red"
+        android:textStyle="italic"/>
+</LinearLayout>

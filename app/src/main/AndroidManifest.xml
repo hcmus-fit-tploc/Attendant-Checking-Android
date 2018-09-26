@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.hoangdang.diemdanh">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature android:name="android.hardware.location.gps" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_school_black_50dp"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.Dark">
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/AppTheme.Dark">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CurrentSession.CurrentSessionActivity"
+            android:theme="@style/AppTheme.CurrentSession" />
+        <activity
+            android:name=".currentSessionImage.CurrentSessionImageActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/AppTheme.CurrentSession" />
+        <activity android:name=".QRCode.QRCodeActivity" />
+        <activity
+            android:name=".AboutActivity"
+            android:theme="@style/AppTheme.About" />
+        <activity
+            android:name=".ScanQRActivity"
+            android:clearTaskOnLaunch="true"
+            android:screenOrientation="portrait"
+            android:stateNotNeeded="true"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name=".feedback.FeedbackHistoryActivity"
+            android:theme="@style/AppTheme.Feedback" />
+        <activity
+            android:name=".absenceRequest.AbsenceRequestHistoryActivity"
+            android:theme="@style/AppTheme.Feedback" />
+        <activity android:name=".timeTable.TimeTableActivity" />
+        <activity android:name=".teacherQuiz.TeacherQuizActivity" />
+        <activity
+            android:name=".studentQuiz.StudentQuizActivity"
+            android:theme="@style/AppTheme.Dark" />
+        <activity
+            android:name=".classManagement.classManagementActivity"
+            android:theme="@style/AppTheme.CurrentSession" />
+        <activity
+            android:name=".courseAttendanceDetail.AttendanceDetailActivity"
+            android:theme="@style/AppTheme.Feedback" />
+        <activity
+            android:name=".studentQuiz.WaitingActivity"
+            android:theme="@style/AppTheme.Feedback" />
+        <activity android:name=".studentQuiz.AnswerActivity" />
+        <activity android:name=".studentQuiz.ResultActivity" />
+        <activity android:name=".studentQuiz.DetailActivity" />
+        <activity
+            android:name=".currentSessionImage.MyFaceDetect"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name=".currentSessionImage.UploadPhotoActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".currentSessionImage.GPSTracker" />
+        <activity android:name=".SetHostActivity"></activity>
+    </application>
+
+</manifest>

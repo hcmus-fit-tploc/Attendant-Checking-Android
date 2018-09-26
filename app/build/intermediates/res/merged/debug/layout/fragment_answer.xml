@@ -1,0 +1,65 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hoangdang.diemdanh.studentQuiz.TwoStepFragment"
+    android:paddingLeft="20dip">
+
+    <RelativeLayout
+        android:layout_marginTop="80dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/quiz_name"
+            android:text="Quiz name"
+            android:textSize="25sp"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/quiz_noti"
+            android:layout_below="@id/quiz_name"
+            android:text="Question 1/3"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:layout_below="@id/quiz_noti"
+            android:id="@+id/answer_1"
+            android:layout_width="170dip"
+            android:layout_height="200dip"
+            android:textSize="40sp"
+            android:text="A" />
+
+        <Button
+            android:layout_below="@id/quiz_noti"
+            android:layout_toRightOf="@id/answer_1"
+            android:id="@+id/answer_2"
+            android:layout_width="170dip"
+            android:layout_height="200dip"
+            android:textSize="40sp"
+            android:text="B"/>
+
+        <Button
+            android:layout_below="@id/answer_1"
+            android:id="@+id/answer_3"
+            android:layout_width="170dip"
+            android:layout_height="200dip"
+            android:textSize="40sp"
+            android:text="C"/>
+
+        <Button
+            android:layout_toRightOf="@id/answer_3"
+            android:layout_below="@id/answer_2"
+            android:id="@+id/answer_4"
+            android:layout_width="170dip"
+            android:layout_height="200dip"
+            android:textSize="40sp"
+            android:text="D"/>
+    </RelativeLayout>
+
+</FrameLayout>

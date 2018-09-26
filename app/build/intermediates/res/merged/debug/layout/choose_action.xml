@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@color/white">
+
+        <Button
+            android:layout_marginBottom="10dp"
+            android:id="@+id/call_answer_question"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Answer Question"
+            android:drawableLeft="@drawable/ic_record_voice_over_black_24dp"
+            android:textSize="20dp"
+            android:drawablePadding="5dp"
+            android:textColor="@color/black"/>
+
+        <Button
+            android:layout_marginBottom="10dp"
+            android:id="@+id/call_discuss"
+            android:drawableLeft="@drawable/ic_forum_black_24dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Discuss"
+            android:textSize="20dp"
+            android:drawablePadding="5dp"
+            android:textColor="@color/black"/>
+
+        <Button
+            android:layout_marginBottom="10dp"
+            android:id="@+id/call_present"
+            android:drawableLeft="@drawable/ic_present_to_all_black_24dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Presentation"
+            android:textSize="20dp"
+            android:drawablePadding="5dp"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/close_btn"
+            android:gravity="right"
+            android:textColor="@color/deep"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dip"
+            android:textSize="20sp"
+            android:text="CLOSE"/>
+</LinearLayout>

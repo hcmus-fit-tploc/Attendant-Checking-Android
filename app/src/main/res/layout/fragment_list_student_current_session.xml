@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.hoangdang.diemdanh.CurrentSession.ListAttenStudentCurrentSessionFragment">
+
+    <ListView
+        android:id="@+id/current_session_listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+
+</FrameLayout>

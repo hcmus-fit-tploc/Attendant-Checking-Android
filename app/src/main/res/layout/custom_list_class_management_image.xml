@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:background="@color/white">
+
+	<FrameLayout
+	android:id="@+id/image_ll"
+	android:layout_width="match_parent"
+	android:layout_height="120dip">
+
+		<ImageView
+			android:id="@+id/image"
+			android:layout_width="match_parent"
+			android:layout_height="120dip"
+			android:adjustViewBounds="true"
+			android:scaleType="centerCrop" />
+
+		<ProgressBar
+			android:id="@+id/progress"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:indeterminate="false"
+			android:max="100"
+			android:layout_gravity="bottom"
+			style="@style/ProgressBarStyle" />
+			
+	</FrameLayout>
+
+	<TextView
+		android:visibility="gone"
+		android:id="@+id/stud_id_class_management_textView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"/>
+
+	<TextView
+		android:layout_gravity="bottom"
+		android:layout_below="@id/image_ll"
+		android:id="@+id/stud_code_image_textView"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:paddingLeft="8dp"
+		android:text="1353049"
+		android:textSize="15sp"/>
+
+	<TextView
+		android:layout_gravity="bottom"
+		android:layout_below="@id/stud_code_image_textView"
+		android:id="@+id/stud_name_image_textView"
+		android:layout_width="wrap_content"
+		android:layout_height="50dip"
+		android:paddingLeft="8dp"
+		android:text="111"
+		android:textSize="15sp"/>
+
+	<TextView
+		android:layout_gravity="bottom"
+		android:layout_below="@id/stud_name_image_textView"
+		android:id="@+id/aq"
+		android:layout_width="wrap_content"
+		android:layout_height="20dip"
+		android:paddingLeft="8dp"
+		android:text="AQ:"
+		android:textColor="@color/primary"
+		android:textSize="15sp"/>
+
+	<TextView
+		android:layout_gravity="bottom"
+		android:layout_below="@id/stud_name_image_textView"
+		android:layout_toRightOf="@id/aq"
+		android:id="@+id/count_aq"
+		android:layout_width="wrap_content"
+		android:layout_height="20dip"
+		android:text="0"
+		android:textColor="@color/primary"
+		android:textSize="15sp"/>
+
+	<TextView
+		android:layout_gravity="bottom"
+		android:layout_below="@id/stud_name_image_textView"
+		android:layout_toRightOf="@id/count_aq"
+		android:id="@+id/d"
+		android:layout_width="wrap_content"
+		android:layout_height="20dip"
+		android:paddingLeft="8dp"
+		android:text="D:"
+		android:textColor="@color/primary"
+		android:textSize="15sp"/>
+
+	<TextView
+		android:layout_gravity="bottom"
+		android:layout_below="@id/stud_name_image_textView"
+		android:layout_toRightOf="@id/d"
+		android:id="@+id/count_d"
+		android:layout_width="wrap_content"
+		android:layout_height="20dip"
+		android:text="1"
+		android:textColor="@color/primary"
+		android:textSize="15sp"/>
+
+	<TextView
+		android:layout_gravity="bottom"
+		android:layout_below="@id/stud_name_image_textView"
+		android:layout_toRightOf="@id/count_d"
+		android:id="@+id/p"
+		android:layout_width="wrap_content"
+		android:layout_height="20dip"
+		android:paddingLeft="8dp"
+		android:text="P:"
+		android:textColor="@color/primary"
+		android:textSize="15sp"/>
+
+	<TextView
+		android:layout_gravity="bottom"
+		android:layout_below="@id/stud_name_image_textView"
+		android:layout_toRightOf="@id/p"
+		android:id="@+id/count_p"
+		android:layout_width="wrap_content"
+		android:layout_height="20dip"
+		android:text="2"
+		android:textColor="@color/primary"
+		android:textSize="15sp"/>
+</RelativeLayout>

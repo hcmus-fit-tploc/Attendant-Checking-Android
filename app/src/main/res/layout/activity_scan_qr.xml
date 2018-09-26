@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hoangdang.diemdanh.ScanQRActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/scan_qrcode_toolbar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:minHeight="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        app:theme="@style/ThemeOverlay.AppCompat.ActionBar"/>
+
+    <com.journeyapps.barcodescanner.DecoratedBarcodeView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@+id/scan_qrcode_toolbar"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/zxing_barcode_scanner"
+        app:zxing_use_texture_view="true"/>
+
+
+    <!-- Sample for a footer. Also add to DecoratedBarcodeView: android:layout_above="@+id/footer" -->
+    <TextView
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:gravity="center"
+        android:text="Place a QR code inside the rectangle to scan it"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"/>
+
+</android.support.constraint.ConstraintLayout>

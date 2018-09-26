@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hoangdang.diemdanh.studentQuiz.WaitingActivity">
+
+    <TextView
+        android:gravity="center"
+        android:text="Waiting for the quiz start"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <com.trncic.library.DottedProgressBar
+        android:layout_below="@id/tv1"
+        android:id="@+id/progress_dot"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:padding="30dp"
+        app:activeDot="@drawable/active_dot"
+        app:dotSize="29dp"
+        app:inactiveDot="@drawable/inactive_dot"
+        app:jumpingSpeed="670"
+        app:spacing="15dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+</android.support.constraint.ConstraintLayout>

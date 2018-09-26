@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_logout.png",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\mipmap-mdpi\\ic_logout.png"
+    },
+    {
+        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="com.example.hoangdang.diemdanh.timeTable.TimeTableActivity">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/timetable_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="@color/primary_darker"
+                app:popupTheme="@style/AppTheme.PopupOverlay"/>
+
+        </android.support.design.widget.AppBarLayout>
+
+        <GridView android:id="@+id/timetable_gripView"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:numColumns="6"
+            android:gravity="center"
+            android:stretchMode="columnWidth"
+            android:layout_marginTop="10dp"
+            android:horizontalSpacing="1dp"
+            android:verticalSpacing="1dp">
+        </GridView>
+
+        <TextView
+            android:paddingLeft="5dp"
+            android:textSize="15sp"
+            android:textColor="@color/iron"
+            android:text="Underline course(s) is practical lesson."
+            android:textStyle="italic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:text="Detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textSize="20sp"
+            android:paddingTop="20dp"
+            android:paddingLeft="20dp"
+            android:visibility="invisible"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:id="@+id/time_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textSize="15sp"
+            android:paddingTop="20dp"
+            android:paddingLeft="20dp"
+            android:visibility="invisible"
+            android:textColor="@color/iron"
+            android:textStyle="italic"
+            android:id="@+id/free_tv"
+            android:text="No schedule"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ListView
+            android:paddingTop="20dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/detail_ll"
+            android:visibility="invisible"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </ListView>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,957 @@
+[
+    {
+        "outputFile": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 107,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 122,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 99,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 99,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 108,
+                    "endOffset": 649
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 108,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 654,
+                    "endColumn": 83,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 604,
+                        "endColumn": 83,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 108,
+                    "endOffset": 842
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endColumn": 108,
+                        "endOffset": 792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 847,
+                    "endColumn": 124,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 797,
+                        "endColumn": 124,
+                        "endOffset": 917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 76,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 922,
+                        "endColumn": 76,
+                        "endOffset": 994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 75,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 999,
+                        "endColumn": 75,
+                        "endOffset": 1070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1125,
+                    "endColumn": 80,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endColumn": 80,
+                        "endOffset": 1151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endColumn": 105,
+                    "endOffset": 1307
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1156,
+                        "endColumn": 105,
+                        "endOffset": 1257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1312,
+                    "endColumn": 107,
+                    "endOffset": 1415
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1262,
+                        "endColumn": 107,
+                        "endOffset": 1365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1420,
+                    "endColumn": 97,
+                    "endOffset": 1513
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1370,
+                        "endColumn": 97,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1518,
+                    "endColumn": 103,
+                    "endOffset": 1617
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1468,
+                        "endColumn": 103,
+                        "endOffset": 1567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1622,
+                    "endColumn": 104,
+                    "endOffset": 1722
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1572,
+                        "endColumn": 104,
+                        "endOffset": 1672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1727,
+                    "endColumn": 106,
+                    "endOffset": 1829
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1677,
+                        "endColumn": 106,
+                        "endOffset": 1779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1834,
+                    "endColumn": 121,
+                    "endOffset": 1951
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1784,
+                        "endColumn": 121,
+                        "endOffset": 1901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1956,
+                    "endColumn": 99,
+                    "endOffset": 2051
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1906,
+                        "endColumn": 99,
+                        "endOffset": 2001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2056,
+                    "endColumn": 55,
+                    "endOffset": 2107
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2112,
+                    "endColumn": 69,
+                    "endOffset": 2177
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 69,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2182,
+                    "endColumn": 63,
+                    "endOffset": 2241
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 63,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2246,
+                    "endColumn": 64,
+                    "endOffset": 2306
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 64,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2311,
+                    "endColumn": 68,
+                    "endOffset": 2375
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 68,
+                        "endOffset": 374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2380,
+                    "endColumn": 60,
+                    "endOffset": 2436
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 379,
+                        "endColumn": 60,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2441,
+                    "endColumn": 63,
+                    "endOffset": 2500
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 63,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2505,
+                    "endColumn": 69,
+                    "endOffset": 2570
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.github.medyo\\android-about-page\\1.2.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 69,
+                        "endOffset": 569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2575,
+                    "endColumn": 106,
+                    "endOffset": 2677
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 102,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2682,
+                    "endColumn": 182,
+                    "endOffset": 2860
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 386,
+                        "endColumn": 182,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2865,
+                    "endColumn": 126,
+                    "endOffset": 2987
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 569,
+                        "endColumn": 122,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2992,
+                    "endColumn": 109,
+                    "endOffset": 3097
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 692,
+                        "endColumn": 105,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3102,
+                    "endColumn": 216,
+                    "endOffset": 3314
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 798,
+                        "endColumn": 216,
+                        "endOffset": 1014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3319,
+                    "endColumn": 129,
+                    "endOffset": 3444
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1015,
+                        "endColumn": 125,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3449,
+                    "endColumn": 132,
+                    "endOffset": 3577
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1141,
+                        "endColumn": 128,
+                        "endOffset": 1269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3582,
+                    "endColumn": 194,
+                    "endOffset": 3772
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 194,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3777,
+                    "endColumn": 215,
+                    "endOffset": 3988
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1270,
+                        "endColumn": 215,
+                        "endOffset": 1485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3993,
+                    "endColumn": 108,
+                    "endOffset": 4097
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1486,
+                        "endColumn": 104,
+                        "endOffset": 1590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4102,
+                    "endColumn": 184,
+                    "endOffset": 4282
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1591,
+                        "endColumn": 184,
+                        "endOffset": 1775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4287,
+                    "endColumn": 128,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1776,
+                        "endColumn": 124,
+                        "endOffset": 1900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4416,
+                    "endColumn": 214,
+                    "endOffset": 4626
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1901,
+                        "endColumn": 214,
+                        "endOffset": 2115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4631,
+                    "endColumn": 210,
+                    "endOffset": 4837
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2116,
+                        "endColumn": 206,
+                        "endOffset": 2322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4842,
+                    "endColumn": 96,
+                    "endOffset": 4934
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2323,
+                        "endColumn": 92,
+                        "endOffset": 2415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4939,
+                    "endColumn": 90,
+                    "endOffset": 5025
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2416,
+                        "endColumn": 86,
+                        "endOffset": 2502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5030,
+                    "endColumn": 105,
+                    "endOffset": 5131
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.1\\res\\values-it\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2503,
+                        "endColumn": 101,
+                        "endOffset": 2604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5136,
+                    "endColumn": 82,
+                    "endOffset": 5214
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2006,
+                        "endColumn": 82,
+                        "endOffset": 2084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5219,
+                    "endColumn": 100,
+                    "endOffset": 5315
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2089,
+                        "endColumn": 100,
+                        "endOffset": 2185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5320,
+                    "endColumn": 58,
+                    "endOffset": 5374
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.5.0\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5379,
+                    "endColumn": 46,
+                    "endOffset": 5421
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.5.0\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 46,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5426,
+                    "endColumn": 172,
+                    "endOffset": 5594
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.5.0\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 172,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5599,
+                    "endColumn": 128,
+                    "endOffset": 5723
+                },
+                "from": {
+                    "file": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.5.0\\res\\values-it\\values-it.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 128,
+                        "endOffset": 458
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,141 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="com.example.hoangdang.diemdanh.Fragments.AttendanceFragment">
+
+    <LinearLayout
+        android:id="@+id/main_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp">
+
+        <LinearLayout
+            android:id="@+id/statistic_ll"
+            android:layout_marginTop="5dip"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <android.support.v7.widget.AppCompatTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Statistic"
+                android:textSize="20sp"
+                android:textColor="@color/black"/>
+
+            <GridView android:id="@+id/gridView_current_session"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:numColumns="3"
+                android:gravity="center"
+                android:stretchMode="columnWidth"
+                android:layout_marginTop="5dp">
+            </GridView>
+
+            <View
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="2dp"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray"/>
+
+        </LinearLayout>
+
+        <android.support.v7.widget.AppCompatButton
+            android:drawableLeft="@drawable/ic_playlist_add_check_black_24dp"
+            android:id="@+id/use_checklist_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:text="@string/btCL" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:drawableLeft="@drawable/ic_qrcode"
+            android:id="@+id/use_qr_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:text="@string/btQR"/>
+
+        <android.support.v7.widget.AppCompatButton
+            android:drawableTop="@drawable/ic_qrcode"
+            android:id="@+id/use_face_rec_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:visibility="gone"
+            android:text="@string/btFR"/>
+
+        <android.support.v7.widget.AppCompatButton
+            android:drawableLeft="@drawable/ic_help_outline_black_24dp"
+            android:id="@+id/use_quiz_button"
+            android:layout_width="match_parent"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:text="@string/btQ"/>
+
+        <LinearLayout
+            android:id="@+id/qllh_ll"
+            android:orientation="vertical"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <View
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray"/>
+
+            <android.support.v7.widget.AppCompatButton
+                android:drawableLeft="@drawable/ic_school_black_24dp"
+                android:id="@+id/use_qllh_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:textColor="@color/white"
+                android:text="Class management"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:layout_marginBottom="@dimen/de_btn_padding"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:weightSum="2">
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/cancel_attendance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.Button.Red"
+            android:text="Cancel"
+            android:layout_weight="1"/>
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/finish_attendance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.Button.Green"
+            android:text="Finish"
+            android:layout_weight="1"/>
+    </LinearLayout>
+</RelativeLayout>
